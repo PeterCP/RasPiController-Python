@@ -1,0 +1,14 @@
+# Flask framework.
+Flask
+
+# Flask-Script for managing command line scripts
+Flask-Script
+
+# SQL-Alchemy integration with Flask.
+Flask-MongoEngine
+
+# Raspberry Pi GPIO Module.
+#RPi.GPIO
+
+# Gunicorn to run the app on Heroku.
+Gunicorn
